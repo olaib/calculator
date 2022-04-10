@@ -1,0 +1,9 @@
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/CMakeFiles/oop2_ex01.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/include/CMakeFiles/edit_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/include/CMakeFiles/rebuild_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/resources/CMakeFiles/edit_cache.dir
+C:/Users/olaib/Downloads/PROJ/oop2_ex01/out/build/x64-Debug/resources/CMakeFiles/rebuild_cache.dir
